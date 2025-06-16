@@ -1,0 +1,23 @@
+{
+  "name": "lista-2-maisprati",
+  "version": "1.0.0",
+  "description": "",
+  "main": "listaExercicios02.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunnoCarvalho/Lista-2-maisPraTi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunnoCarvalho/Lista-2-maisPraTi/issues"
+  },
+  "homepage": "https://github.com/BrunnoCarvalho/Lista-2-maisPraTi#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
